@@ -22,6 +22,6 @@ The steps required for the analyst role can be completed, with the availability 
 
 ```./analyst_code.R```
 
-The steps required for the analyst role can be completed, with the availability of the sample data file, using the script located within the 'Biologist' directory. The filepath to access the file containing that script in this GitHub repository is as follows:
+The steps required for the biologist role can be completed, with the availability of the sample data file, using the script located within the 'Biologist' directory. The filepath to access the file containing that script in this GitHub repository is as follows:
 
 ```./biologist_code.R```
